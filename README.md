@@ -9,3 +9,6 @@ Principais características:
 -Geração automática de contratos individuais com dados como nome, CNPJ, endereço, cidade, estado, entre outros.
 - Redução significativa de tempo e erros no processo manual de preenchimento.
 - Possibilidade de exportação em formato Word ou PDF para envio e assinatura.
+
+
+Bibliotecas utilizadas:  biblioteca docxtpl para manipulação de templates Word e pandas para leitura e tratamento de dados em Excel.
